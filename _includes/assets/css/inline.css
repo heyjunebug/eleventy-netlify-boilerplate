@@ -10,8 +10,8 @@
 
 html,
 body {
-	padding: 0;
 	margin: 0;
+	padding: 0;
 	font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 }
 
@@ -24,6 +24,9 @@ body {
 
 main {
 	max-width: 37.5em;
+	margin-left: auto;
+	margin-right: auto;
+	align-self: center;
 }
 
 p,
