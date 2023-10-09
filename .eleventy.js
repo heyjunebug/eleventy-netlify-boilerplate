@@ -86,7 +86,7 @@ module.exports = function(eleventyConfig) {
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
   let markdownItFootnote = require("markdown-it-footnote");
-  
+
   let options = {
     breaks: true,
     linkify: true
@@ -112,7 +112,7 @@ module.exports = function(eleventyConfig) {
     // This is only used for URLs (it does not affect your file structure)
     pathPrefix: "/",
 
-    markdownTemplateEngine: "liquid",
+    markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     dir: {
