@@ -4,7 +4,6 @@ date: 2023-10-09T15:14:59.327Z
 author: June Lin Umfress
 summary: "This is the summary: Some excerpts from Emerson. "
 tags:
-  - post
   - test
 ---
 *Are Netlify CMS and Eleventy a match made in heaven?*
