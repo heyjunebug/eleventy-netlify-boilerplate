@@ -32,6 +32,6 @@
     "uglify-js": "^3.17.4"
   },
   "dependencies": {
-    "markdown-it-footnote": "^3.0.3"
+    "markdown-it-footnote": "^4.0.0"
   }
 }
